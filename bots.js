@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 
 const SERVER_HOST = 'OneBlock6766.aternos.me';
-const SERVER_PORT = 43111;
+const SERVER_PORT = 46408;
 
 function createBot(name, reconnectInterval) {
   let bot;
